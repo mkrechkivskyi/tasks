@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
      stackFullOut(new Random().nextInt(), new Random().nextInt(), new Random().nextInt(),new Random().nextInt(),new Random().nextInt(),new Random().nextInt(),new Random().nextInt(),new Random().nextInt(),new Random().nextInt());
+        System.out.println("kdkdkdk");
     }
 
     static void heapFullOut(List<StringBuilder> builders){
