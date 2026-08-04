@@ -1,6 +1,6 @@
 package leetcode;
 
-import org.w3c.dom.Node;
+import leetcode.utill.ListNode;
 
 /**
  * Definition for singly-linked list.
