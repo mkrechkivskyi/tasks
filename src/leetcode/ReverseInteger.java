@@ -16,7 +16,6 @@ public class ReverseInteger {
             x /= 10;
         }
 
-        // Проверяем на переполнение 32-битного int
         if (reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE) {
             return 0;
         }
